@@ -1,1 +1,0 @@
-# Python-Ile-Alan-Hesaplama
